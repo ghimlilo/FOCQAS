@@ -1,6 +1,6 @@
 # FOCQAS
 
-VBA Project를 python과 Django로 구현해보자!
+VBA Project로 구현한 FOCQAS를 python과 Django로 구현해보자!
 <br> (될까?)
 <br>
 <br>
